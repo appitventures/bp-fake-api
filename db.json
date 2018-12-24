@@ -43,7 +43,7 @@
           "currency_format": "$"
         }
       ], 
-      "businessPlan/1":{
+      "businessPlan":{
         "Overview": {
           "Overview": "Smith Financial Services is a for-profit, limited liability corporation that is located in Brooklyn, New York on 123rd street. We provide affordable financial services for small business, including tax advice, book keeping, employee retirement accounts and investment services."
         },
